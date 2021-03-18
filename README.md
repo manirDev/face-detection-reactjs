@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# airbnb-clone-reactjs
+Airbnb clone is  a Simple WEB UI Clone made by ReactJS. This version is still very basic, so many of the functionalities have not been added yet.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# about clarifai
+Founded in 2013 by Matthew Zeiler, a foremost expert in machine learning, Clarifai has been a market leader since winning the top five places in image classification at the ImageNet 2013 competition.
+Recognized by leading industry analysts for our award winning platform, Clarifai offers an end-to-end solution for modeling unstructured data for the entire AI lifecycle. Our powerful image, video, and text recognition solutions are built on the most advanced machine learning platform and made easily accessible via API, device SDK and on-premise, empowering businesses all over the world to build a new generation of intelligent applications..
 
-## Available Scripts
+## Usage
 
-In the project directory, you can run:
+- Clone the respository
+  git clone https://github.com/mahamatnou/face-detection-reactjs.git
+- Enter to the code Directory
+  cd app
+- Install Dependencies
+  npm install
+- Run App
+  npm start
 
-### `npm start`
+# Built with
+- React Js
+- Firebase
+- Tilt
+- Clarifai API  https://www.clarifai.com/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Live Demo
+https://face-detection-reactjs.web.app/
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# ScreenShhots
 
-### `npm test`
+# HomePage
+![face1](https://user-images.githubusercontent.com/42040735/111697118-2f71af80-8846-11eb-893a-eaf0b652ef4e.png)
+![face2](https://user-images.githubusercontent.com/42040735/111697127-326ca000-8846-11eb-8247-d4ea9ff94c43.png)
+![face3](https://user-images.githubusercontent.com/42040735/111697128-34366380-8846-11eb-9e05-14af3451bc1e.png)
+![face4](https://user-images.githubusercontent.com/42040735/111697132-36002700-8846-11eb-8511-1c617e373123.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
